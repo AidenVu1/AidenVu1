@@ -34,5 +34,5 @@ Tools: <br>
 ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
 
 Stars: <br>
-![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidenVu1&show_icons=true&theme=radical)
 
